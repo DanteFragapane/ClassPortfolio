@@ -19,4 +19,6 @@ h1 {
     margin: 0 auto;
 }
 
-
+.bio, .contact-info {
+    float: left;
+}

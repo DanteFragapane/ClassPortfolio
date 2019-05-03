@@ -10,6 +10,13 @@ header {
 }
 
 h1 {
-    color: #333333;
+    color: #ececec;
     text-align: center;
 }
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+

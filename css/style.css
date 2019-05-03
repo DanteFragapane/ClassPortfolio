@@ -1,7 +1,7 @@
 body {
     font-size: 18px;
     color: #333333;
-    background: #eeeeee    
+    background: #eeeeee;
 }
     
 header {
@@ -12,6 +12,11 @@ header {
 h1 {
     color: #ececec;
     text-align: center;
+    line-height: 200%;
+}
+
+a {
+    color: red;
 }
 
 .container {
